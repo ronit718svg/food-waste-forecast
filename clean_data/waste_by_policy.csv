@@ -1,0 +1,3 @@
+policy,ordered,sold,wasted,lost_sales,waste_cost,lost_profit,profit,waste_pct,unmet_demand_pct
+Forecast +10%,6086,5435,119,30,952,154,39575,2.0,0.5
+Gut feel (yesterday +20%),6609,5431,275,34,3736,256,36689,4.2,0.6

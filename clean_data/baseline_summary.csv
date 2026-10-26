@@ -1,0 +1,9 @@
+item,avg_sales,mae,bias,mae_pct_of_sales
+Bananas,32.4,4.3,1.8,13.3
+Bread,52.9,7.9,-2.0,14.9
+Curd,41.4,4.9,-2.5,11.8
+Eggs,82.4,6.8,1.3,8.3
+Milk,70.9,7.5,0.3,10.6
+Paneer,22.4,2.9,-0.8,12.9
+Samosa,50.2,6.1,-2.2,12.2
+Tomatoes,37.8,4.1,2.5,10.8

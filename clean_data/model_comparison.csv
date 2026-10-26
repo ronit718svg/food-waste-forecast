@@ -1,0 +1,9 @@
+item,avg_sales,baseline_mae,model_mae,better
+Bananas,32.43,4.29,4.32,Baseline
+Bread,52.86,7.93,6.96,Model
+Curd,41.36,4.89,4.86,Model
+Eggs,82.43,6.79,7.51,Baseline
+Milk,70.86,7.46,6.33,Model
+Paneer,22.43,2.93,2.99,Baseline
+Samosa,50.21,6.07,5.99,Model
+Tomatoes,37.79,4.11,4.13,Baseline
